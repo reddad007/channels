@@ -1,0 +1,11 @@
+<item>
+<title>MBC Maser</title>
+<link>http://mbc-live.hds.adaptive.level3.net/hls-live/mbc-channel01/_definst_/live/stream1.m3u8</link>
+<thumbnail>http://www.satfrequency.com/wp-content/uploads/2015/02/MBC-Masr-Satellite-Frequency.jpg</thumbnail>
+</item>
+
+<item>
+<title>Title</title>
+<link>Video Link</link>
+<thumbnail>Thumbnail Pic Link</thumbnail>
+</item>
