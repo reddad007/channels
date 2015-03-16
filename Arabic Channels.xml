@@ -1,11 +1,26 @@
-<item>
-<title>MBC Maser</title>
-<link>http://mbc-live.hds.adaptive.level3.net/hls-live/mbc-channel01/_definst_/live/stream1.m3u8</link>
-<thumbnail>http://www.satfrequency.com/wp-content/uploads/2015/02/MBC-Masr-Satellite-Frequency.jpg</thumbnail>
-</item>
-
-<item>
-<title>Title</title>
-<link>Video Link</link>
-<thumbnail>Thumbnail Pic Link</thumbnail>
-</item>
+#EXTINF:-1,hello
+http://mbc-live.hds.adaptive.level3.net/hls-live/mbc-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1,NileCinema
+rtmp://alsersawy2-stream.dyndns.tv:1935/jr1/NileCinema
+#EXTINF:-1,NileComedy
+rtmp://alsersawy2-stream.dyndns.tv:1935/jr1/NileComedy
+#EXTINF:-1,NileLife
+rtmp://alsersawy2-stream.dyndns.tv:1935/jr1/NileLife
+#EXTINF:-1,NileSports
+rtmp://alsersawy2-stream.dyndns.tv:1935/jr1/NileSports
+#EXTINF:-1,NileNews
+rtmp://alsersawy2-stream.dyndns.tv:1935/jr1/NileNews
+#EXTINF:-1,AlMasriya
+rtmp://alsersawy2-stream.dyndns.tv:1935/jr3/AlMasriya
+#EXTINF:-1,AlThanya
+rtmp://alsersawy2-stream.dyndns.tv:1935/jr3/AlThanya
+#EXTINF:-1,RotanaMasriya
+rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/RotanaMasriya
+#EXTINF:-1,RotanaClassic
+rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/RotanaClassic
+#EXTINF:-1,RotanaCinema
+rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/RotanaCinema
+#EXTINF:-1,MBCMaser
+rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/MBCMaser
+#EXTINF:-1,MBCMaser2
+rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/MBCMaser2
