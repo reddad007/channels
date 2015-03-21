@@ -1,40 +1,9 @@
 #EXTM3U
-
-#EXTINF:-1,hello
-http://mbc-live.hds.adaptive.level3.net/hls-live/mbc-channel01/_definst_/live/stream1.m3u8
-
-#EXTINF:-1,NileCinema
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr1/NileCinema
-
-#EXTINF:-1,NileComedy
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr1/NileComedy
-
-#EXTINF:-1,NileLife
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr1/NileLife
-
-#EXTINF:-1,NileSports
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr1/NileSports
-
-#EXTINF:-1,NileNews
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr1/NileNews
-
-#EXTINF:-1,AlMasriya
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr3/AlMasriya
-
-#EXTINF:-1,AlThanya
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr3/AlThanya
-
-#EXTINF:-1,RotanaMasriya
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/RotanaMasriya
-
-#EXTINF:-1,RotanaClassic
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/RotanaClassic
-
-#EXTINF:-1,RotanaCinema
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/RotanaCinema
-
-#EXTINF:-1,MBCMaser
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/MBCMaser
-
-#EXTINF:-1,MBCMaser2
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/MBCMaser2
+#EXTINF:0, tvg-name="MBC", tvg-logo="mm/mbc_ae_misr.png", MBC Masr
+http://tvbox2.mine.nu/naymar/neqashiptv/47.ch
+#EXTINF:0 tvg-name="CNN" audio-track="ja" group-title="Fav", CNN International
+http://server.name/stream/to/video2
+#EXTINF:0, Arirang
+http://server.name/stream/to/video3
+#EXTINF:0, tvg-name="Baby First" tvg-logo="4013953.png", Baby First
+http://202.75.23.33/live/ch27/03.m3u8
